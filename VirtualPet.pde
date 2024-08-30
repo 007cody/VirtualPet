@@ -56,4 +56,10 @@ void draw(){
    //tongue
    fill(255,100,0);
    ellipse(200,230,45,30);
+   
+   //cheeks
+   fill(91,33,50);
+   ellipse(180,190,25,20);
+   fill(91,33,50);
+   ellipse(200,230,25,20);
 }
